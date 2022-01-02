@@ -16,12 +16,10 @@
    - Removing the less accurate predictor to up the effeciency
 
 
-To recreate the same results, you can use this dataset [Movies](https://github.com/Abed221/Data/Movies%20cleaned.csv) \
-The final notebook can be found [here](https://github.com/Abed221/Notebooks/IMDB_REC.ipynb) \
+To recreate the same results, you can use this dataset [Movies](https://github.com/Abed221/IMDB-Recommendation-System/blob/main/Data/Movies%20Cleaned.csv) \
+The final notebook can be found [here](https://github.com/Abed221/IMDB-Recommendation-System/blob/main/Notebooks/IMDB_REC.ipynb) \
 Libraries for the notebook functionality: \
-`
-Pandas,
-Numpy,
-Matplotlib,
-Seaborn.
-`
+`Pandas`
+`Numpy`
+`Matplotlib`
+`Seaborn`
